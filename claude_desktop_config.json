@@ -7,7 +7,8 @@
         "SALESFORCE_USERNAME": "pallavi.mokkarala391@agentforce.com",
         "SALESFORCE_PASSWORD": "Test@1234",
         "SALESFORCE_TOKEN": "4bOhmb3hzf3IoLzJykZs1xhvm",
-        "SALESFORCE_INSTANCE_URL": "https://login.salesforce.com"
+        "SALESFORCE_INSTANCE_URL": "https://login.salesforce.com",
+        "APPDATA": "C:\\Users\\pmokkara\\AppData\\Roaming"
       }
     }
   }
